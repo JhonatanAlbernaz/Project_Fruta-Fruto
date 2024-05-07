@@ -31,7 +31,10 @@ body {
     color: white;
   }
 
-  
+  .img-logo {
+    height: 100px;
+    width: 225px;
+  }
   
   /*Responsive*/
   
