@@ -70,6 +70,10 @@ input[type="checkbox"]:focus {
   background-image: url("https://img.freepik.com/fotos-gratis/alimentacao-saudavel-coleta-de-frutas-e-vegetais-frescos-gerada-por-ia_188544-21217.jpg");
 }
 
+.banner-3{
+  background-image: url("https://png.pngtree.com/background/20230618/original/pngtree-fruits-and-vegetables-picture-image_3712726.jpg");
+}
+
 .titulo-primeiro-banner {
   font-size: 3rem !important;
   font-family: "Sedan SC", serif;
@@ -119,6 +123,26 @@ input[type="checkbox"]:focus {
   .width-355-menu-bar {
     width: 305px !important;
   }
+
+  .margin-top-opacity {
+    margin-top: 110px !important;
+    margin-bottom: 110px !important;
+  }
+
+  .titulo-primeiro-banner {
+    font-size: 1.9rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .titulo-segundo-banner {
+    font-size: 1.5rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .img-logo {
+    height: 80px;
+    width: 150px;
+  }
   
 }
 
@@ -136,12 +160,52 @@ input[type="checkbox"]:focus {
     width: 355px !important;
   }
 
+  .margin-top-opacity {
+    margin-top: 110px !important;
+    margin-bottom: 110px !important;
+  }
+
+  .titulo-primeiro-banner {
+    font-size: 2rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .titulo-segundo-banner {
+    font-size: 1.8rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .img-logo {
+    height: 80px;
+    width: 150px;
+  }
+
 }
 
 @media (min-width:  378px) and (max-width: 576px) {
 
   .margin-top-110 {
     margin-top: 110px;
+  }
+  
+  .margin-top-opacity {
+    margin-top: 110px !important;
+    margin-bottom: 110px !important;
+  }
+
+  .titulo-primeiro-banner {
+    font-size: 2rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .titulo-segundo-banner {
+    font-size: 1.8rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .img-logo {
+    height: 80px;
+    width: 150px;
   }
 
 }
@@ -152,12 +216,32 @@ input[type="checkbox"]:focus {
     margin-top: 110px;
   }
 
+  .margin-top-opacity {
+    margin-top: 110px !important;
+    margin-bottom: 110px !important;
+  }
+
+  .titulo-primeiro-banner {
+    font-size: 2.5rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
+  .titulo-segundo-banner {
+    font-size: 2rem !important;
+    font-family: "Sedan SC", serif;
+  }
+
 }
   
 @media (min-width: 993px) and (max-width: 1200px) {
 
   .margin-top-110 {
     margin-top: 110px;
+  }
+
+  .margin-top-opacity {
+    margin-top: 110px !important;
+    margin-bottom: 110px !important;
   }
 
 }
